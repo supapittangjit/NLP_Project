@@ -7,10 +7,10 @@ def checkNull(df):
     for i in df.columns:
         null_rate = df[i].isna().sum()/len(df) * 100
         if null_rate > 0:
-            print("{} null rate: {}%".format(
-                i, round(null_rate, 2)))
-    print(null_rate)
-    if(null_rate < 0):
+            print("{} null rate: {}%".format(i, round(null_rate, 2)))
+    null_rate = round(null_rate, 2) * 100.0
+    print(null_rate, round(null_rate, 2))
+    if(null_rate == 0):
         print("no more null")
 
 
