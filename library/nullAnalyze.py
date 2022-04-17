@@ -4,13 +4,13 @@ import numpy as np
 
 def checkNull(df):
     # check null value in all columns
+    isNullInTable = False
     for i in df.columns:
         null_rate = df[i].isna().sum()/len(df) * 100
         if null_rate > 0:
             print("{} null rate: {}%".format(i, round(null_rate, 2)))
-    null_rate = round(null_rate, 2) * 100.0
-    print(null_rate, round(null_rate, 2))
-    if(null_rate == 0):
+            isNullInTable = True
+    if(isNullInTable == False):
         print("no more null")
 
 

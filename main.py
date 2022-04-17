@@ -8,7 +8,7 @@ from library.nullAnalyze import cutNull, checkNull
 df = pd.read_csv('netflix_titles.csv')
 # display(df.head())
 
-# cutNull(df)
+cutNull(df)
 checkNull(df)
 # print(df['country'][300])
 # df['first_country'] = df['country'].apply(lambda x: x+2)
