@@ -12,6 +12,7 @@ nltk.download('omw-1.4')
 nltk.download('vader_lexicon')
 nltk.download('averaged_perceptron_tagger')
 nltk.download('punkt')
+nltk.download('wordnet')
 
 document = 'test.txt'
 
