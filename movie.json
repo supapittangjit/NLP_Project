@@ -1,0 +1,44 @@
+[
+    {
+        "picture": "https://ibb.co/6nLGw0Q",
+        "movieName": "The Bad Guys",
+        "description": "After a lifetime of legendary heists, notorious criminals Mr. Wolf, Mr. Snake, Mr. Piranha, Mr. Shark and Ms. Tarantula are finally caught. To avoid a prison sentence, the animal outlaws must pull off their most challenging con yet -- becoming model citizens. Under the tutelage of their mentor, Professor Marmalade, the dubious gang sets out to fool the world that they're turning good.",
+        "genres":"Animation"
+    },
+    {
+        "picture": "https://ibb.co/6nLGw0Q",
+        "movieName": "The Northman",
+        "description": "From visionary director Robert Eggers comes The Northman, an action-filled epic that follows a young Viking prince on his quest to avenge his father's murder.",
+        "genres":"Action"
+    },
+    {
+        "picture": "https://ibb.co/6nLGw0Q",
+        "movieName": "Memory",
+        "description": "An assassin-for-hire finds that he's become a target after he refuses to complete a job for a dangerous criminal organization. A remake of the 2003 Belgian film 'The Memory of a Killer'.",
+        "genres":"Action"
+    },
+    {
+        "picture": "https://ibb.co/6nLGw0Q",
+        "movieName": "Morbius",
+        "description": "Biochemist Michael Morbius tries to cure himself of a rare blood disease, but he inadvertently infects himself with a form of vampirism instead.",
+        "genres":"Action"
+    },
+    {
+        "picture": "https://ibb.co/6nLGw0Q",
+        "movieName": "Father Stu",
+        "description": "Follows the life of Father Stuart Long, a boxer-turned-priest who inspired countless people during his journey from self-destruction to redemption.",
+        "genres":"Biography"
+    },
+    {
+        "picture": "https://ibb.co/6nLGw0Q",
+        "movieName": "Ambulance",
+        "description": "Two robbers steal an ambulance after their heist goes awry.",
+        "genres":"Action"
+    },
+    {
+        "picture": "https://ibb.co/6nLGw0Q",
+        "movieName": "Hatching",
+        "description": "A young gymnast who tries desperately to please her demanding mother, discovers a strange egg. She hides it and keeps it warm, but when it hatches, what emerges shocks them all.",
+        "genres":"Horror"
+    }
+]
