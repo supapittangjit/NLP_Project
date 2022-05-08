@@ -53,9 +53,10 @@ def main(commentfile):
         print(attractiveness(commentResult, commentCount))
 
 
-# print('comments'.count())
+# show all file comments
 for file in allCommentFiles:
     print(file)
     main(file)
     print()
+# show one file comment
 # main(document)
